@@ -1,1 +1,0 @@
-En el 3000 se ejecuta el mensaje de SERVIDOR ACTIVO, en el de saludo se ejecuta el HOLA COMUNIDAD, y en el de JUAN se ejecuta un HOLA JUAN
